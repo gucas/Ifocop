@@ -1,2 +1,4 @@
 # Ifocop
-Démo
+
+## Démo Lignes De Commande Sur Terminal.
+	- 
