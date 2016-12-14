@@ -1,6 +1,6 @@
 # Ifocop
 
-## Démo Lignes De Commande Sur Terminal.
+## Démo Lignes De Commande Sur Terminal :
 	- "git status"
 	- "git add ." ou "git add nomDuFichierModifié"
 	- "git commit -a -m "commentaire""
@@ -9,7 +9,7 @@
 	- "git pull" Récupére la version sur Git.
 
 
-## lije-creative.com/memo-git-en-ligne-commande/
+## lije-creative.com/memo-git-en-ligne-commande :
 	- Voir Le Fichier De Log : "git log"
  
 	- Voir Le Fichier De Log Plus Succint : "git log --oneline"
